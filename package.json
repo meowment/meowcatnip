@@ -1,0 +1,28 @@
+{
+  "name": "meowcatnip",
+  "version": "1.0.0",
+  "description": "meowcatnip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meowment/meowcatnip.git"
+  },
+  "keywords": [
+    "meow",
+    "catnip",
+    "npm"
+  ],
+  "author": "meowment",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "meowsnack": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/meowment/meowcatnip/issues"
+  },
+  "homepage": "https://github.com/meowment/meowcatnip#readme"
+}
